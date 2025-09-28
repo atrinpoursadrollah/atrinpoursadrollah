@@ -17,3 +17,4 @@ Passionate about sustainability, **computational design**, and **decision-making
 - ⚡ **Fun fact**: I love exploring the intersection of design and technology, where creative ideas meet computational tools to shape innovative architecture.
 
 
+<img width="987" height="176" alt="2025-09-28_21-14-30" src="https://github.com/user-attachments/assets/f029ecae-3cea-41b0-ac09-5468568a8da7" />
