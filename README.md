@@ -6,7 +6,6 @@ Passionate about sustainability, **computational design**, and **decision-making
 - 🔭 Current: Researcher & Computational Designer at <Ardaena / R&D Team >
 - 🌱 Research interests: 	AI and Advanced Computational Design for Integrated Architectural Workflows,	Smart Cities (Energy-Efficient Urban Design), AI and Computational Design for Data-Driven Sustainable Cities
 - 🛠️ Tools:
-- 
       Computational Tools: Grasshopper 3D, Karamba, Ladybug, Honeybee, Butterfly, Robots
       Programming: Python, C#
       Machine Learning & Data Analysis: TensorFlow, Keras, scikit-learn, pandas, NumPy
