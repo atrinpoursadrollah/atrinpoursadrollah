@@ -1,4 +1,5 @@
-<img width="996" height="141" alt="image" src="https://github.com/user-attachments/assets/a75e9bf0-3d18-449d-847b-c96142105622" />
+<img width="2000" height="600" alt="Design + Technology (30)" src="https://github.com/user-attachments/assets/1a85110f-27dc-4f2f-9597-cff990099127" />
+
 
 # Hi, I'm Atrin Poursadrollah 👋
 
