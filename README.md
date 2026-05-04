@@ -3,7 +3,7 @@
 
 # Hi, I'm Atrin Poursadrollah 👋
 
-Passionate about sustainability, **computational design**, and **decision-making within integrated design processes**. With a background in architectural engineering and heritage-based design, I focus on **utilizing machine learning and advanced computational methodologies to optimize architectural workflows** and address environmental challenges. Currently part of the R&D team at Ardaena, I contribute to creating sustainable solutions that enhance the functionality, performance, and efficiency of built spaces, through data-driven decision-making strategies.
+Passionate about **computational design**, and **decision-making within integrated design processes**.With a background in architectural engineering and heritage conservation, I transitioned into computational design in 2020, where I began integrating AI, parametric systems, and BIM processes into architectural workflows. As a researcher at Ardaena, I contribute to interdisciplinary R&D projects exploring machine learning and deep learning applications, optimization processes, and data-driven design systems.
 
 - 🔭 **Current position**: Researcher & Computational Designer at <Ardaena / R&D Team >
 - 🌱 **Research interests**: AI and Advanced Computational Design for Integrated Architectural Workflows,	Smart Cities (Energy-Efficient Urban Design), AI and Computational Design for Data-Driven Sustainable Cities
